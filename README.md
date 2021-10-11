@@ -1,6 +1,6 @@
 # moleculeN2
 **Spectre émission du second système positif de N2**
-
+Si vous utilisez ce programme, veuillez le citer comme dans le fichier citation.cff
 
 Télécharger le fichier `n2_2sp`, c'est un exécutable sous linux.
 
@@ -17,7 +17,7 @@ La syntaxe est la suivante
 7. **-L** intervalle sur le quel sont effectués les calculs [L1;L2], L1 et L2 en nm
 
 **Remarques** 
-- Le fichier se termine toujours par `N2_TR_TV_TExc_densite.sp`
+- Le nom du fichier se termine toujours par `N2_TR_TV_TExc_densite.sp`
 - Le fichier est composé de deux colonnes 
   - 1ère colonne : longueur d'onde en nm
   - 2ème colonne : l'intensité en W/m<sup>3</sup>
