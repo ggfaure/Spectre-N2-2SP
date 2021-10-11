@@ -2,7 +2,7 @@
 **Spectre émission du second système positif de N2**
 
 
-Si vous utilisez ce programme, veuillez le citer comme 
+Si vous utilisez ce programme, veuillez le citer comme indiquer dans `cite repository`
 
 Télécharger le fichier `n2_2sp`, c'est un exécutable sous linux.
 
