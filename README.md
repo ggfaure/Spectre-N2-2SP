@@ -1,6 +1,8 @@
 # moleculeN2
 **Spectre émission du second système positif de N2**
-Si vous utilisez ce programme, veuillez le citer comme dans le fichier citation.cff
+
+
+Si vous utilisez ce programme, veuillez le citer comme 
 
 Télécharger le fichier `n2_2sp`, c'est un exécutable sous linux.
 
