@@ -32,4 +32,4 @@ Un exemple d'exécution est disponible sur l'image : `execution.png` et le fichi
 
 Si vous souhaitez des informations sur les données utilisées dans ces calculs, envoyez moi un email geraldine.faure@clermont.in2p3.fr
 
-Dans les prochaines semaines seront ajoutées les molécules C2, CN, NH, OH, NO, O2
+Dans les prochaines semaines seront ajoutées les molécules C2, CN, NH, OH, NO, O2, N2+
