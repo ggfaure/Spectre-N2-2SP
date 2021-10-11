@@ -26,5 +26,5 @@ La syntaxe est la suivante
 - Si vous souhaitez normaliser le spectre, alors ajouter l'option **-N l1 l2 In**, avec l1, l2 les bornes de l'intervalle en nm sur lequel sera déterminé l'intensité maximale qui sera fixée à In.
 
 
-Un exemple d'exécution est disponible sur l'image : `execution.png` et le fichier `spectre1.png` contient la représentation du résultat obtenu.
+Un exemple d'exécution est disponible sur l'image : `execution.png` et le fichier `spectre1.eps` contient la représentation du résultat obtenu.
 
