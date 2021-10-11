@@ -31,3 +31,5 @@ La syntaxe est la suivante
 Un exemple d'exécution est disponible sur l'image : `execution.png` et le fichier `spectre1.eps` contient la représentation du résultat obtenu.
 
 Si vous souhaitez des informations sur les données utilisées dans ces calculs, envoyez moi un email geraldine.faure@clermont.in2p3.fr
+
+Dans les prochaines semaines seront ajoutées les molécules C2, CN, NH, OH, NO, O2
