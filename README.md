@@ -20,7 +20,7 @@ La syntaxe est la suivante
 - Le fichier se termine toujours par `N2_TR_TV_TExc_densite.sp`
 - Le fichier est composé de deux colonnes 
   - 1ère colonne : longueur d'onde en nm
-  - 2ème colonne : l'intensité en W/m^{3}   
+  - 2ème colonne : l'intensité en W/m<sup>3</sup>
 - Il faut faire un choix entre -R, -A et -F
 - La distribution de Boltzmann est supposée sur les états électronique à TExc, sur les états de vibration à TV et sur les états de rotation à TR, par conséquent les spectres obtenus sont en intensité absolue W/m<sup>3</sup>
 - Si vous souhaitez normaliser le spectre, alors ajouter l'option **-N l1 l2 In**, avec l1, l2 les bornes de l'intervalle en nm sur lequel sera déterminé l'intensité maximale qui sera fixée à In.
