@@ -1,0 +1,19 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Laboratoire de Physique de Clermont, Université Clermont-Auvergne"
+    family-names: Faure
+    given-names: "Géraldine"
+    orcid: "https://orcid.org/https://orcid.org/ 0000-0002-8756-1606"
+cff-version: "1.1.0"
+date-released: 2021/10
+doi: 
+keywords: 
+  - "diatomic spectra"
+  - "absolute emission"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/ggfaure/moleculeN2"
+title: "  MSAE : Molecular Spectra in Absolute Emission"
+version: "1.0.0"
+...
