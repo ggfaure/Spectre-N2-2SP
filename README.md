@@ -19,9 +19,9 @@ La syntaxe est la suivante
 **Remarques** 
 - Le fichier se termine toujours par `N2_TR_TV_TExc_densite.sp`
 - Il faut faire un choix entre -R, -A et -F
-- La distribution de Boltzmann est supposée sur les états électronique à TExc, sur les états de vibration à TV et sur les états de rotation à TR
+- La distribution de Boltzmann est supposée sur les états électronique à TExc, sur les états de vibration à TV et sur les états de rotation à TR, par conséquent les spectres obtenus sont en intensité absolue W/m^{-3}
+- Si vous souhaitez normaliser le spectre, alors ajouter l'option **-N l1 l2 In**, avec l1, l2 les bornes de l'intervalle sur lequel sera déterminé l'intensité maximale qui sera fixée à In.
 
 
-Un exemple d'exécution est disponible sur l'image : `execution.png`
-
+Un exemple d'exécution est disponible sur l'image : `execution.png` et le fichier `spectre1.png` contient la représentation du résultat obtenu.
 
