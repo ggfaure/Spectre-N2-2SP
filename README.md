@@ -17,5 +17,11 @@ La syntaxe est la suivante
 7. **-L** intervalle sur le quel sont effectués les calculs [L1;L2]
 
 **Remarques** 
-- le fichier se termine toujours par `N2_TR_TV_TExc_densite.sp`
-- la distribution de Boltzmann est supposée sur les états électronique à TExc, sur les états de vibration à TV et sur les états de rotation à TR
+- Le fichier se termine toujours par `N2_TR_TV_TExc_densite.sp`
+- Il faut faire un choix entre -R, -A et -F
+- La distribution de Boltzmann est supposée sur les états électronique à TExc, sur les états de vibration à TV et sur les états de rotation à TR
+
+
+Un exemple d'exécution est disponible sur l'image : `execution.png`
+
+
