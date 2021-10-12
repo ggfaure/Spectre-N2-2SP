@@ -8,7 +8,7 @@ authors:
     affiliation: "Laboratoire de Physique de Clermont, Université Clermont-Auvergne"
     email: geraldine.faure@clermont.in2p3.fr
     orcid: https://orcid.org/0000-0002-8756-1606
-url: "https://github.com/ggfaure/moleculeN2"
+url: "https://github.com/ggfaure/Spectre-N2-2SP"
 title: "MSAE : Molecular Spectra in Absolute Emission"
 filename: n2_2sp
 version: 1.0.0
