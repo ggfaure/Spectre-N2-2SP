@@ -1,19 +1,15 @@
-# YAML 1.2
----
-authors: 
-  -
+cff-version: 1.2.0
+message: "If you use this MRT, please cite it as below."
+references:
+- type: software-executable
+authors:
+  - family-names: Faure
+    given-names: Géraldine
     affiliation: "Laboratoire de Physique de Clermont, Université Clermont-Auvergne"
-    family-names: Faure
-    given-names: "Géraldine"
-    orcid: "https://orcid.org/https://orcid.org/ 0000-0002-8756-1606"
-cff-version: "1.1.0"
-date-released: 2021/10
-doi: 
-keywords: 
-  - "diatomic spectra"
-  - "absolute emission"
-message: "If you use this software, please cite it using these metadata."
-repository-code: "https://github.com/ggfaure/moleculeN2"
-title: "  MSAE : Molecular Spectra in Absolute Emission"
-version: "1.0.0"
-...
+    email: geraldine.faure@clermont.in2p3.fr
+    orcid: https://orcid.org/0000-0002-8756-1606
+title: "repository-code: "https://github.com/ggfaure/moleculeN2"
+title: "MSAE : Molecular Spectra in Absolute Emission"
+filename: n2_2sp
+version: 1.0.0
+date-released: 2021-10-11
